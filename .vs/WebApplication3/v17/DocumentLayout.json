@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE14B233-0492-4A22-ADB4-35A58F9B6279}|WebApplication3\\WebApplication3.csproj|c:\\users\\anjal\\desktop\\new folder\\webapplication3\\webapplication3\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CE14B233-0492-4A22-ADB4-35A58F9B6279}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE14B233-0492-4A22-ADB4-35A58F9B6279}|WebApplication3\\WebApplication3.csproj|c:\\users\\anjal\\desktop\\new folder\\webapplication3\\webapplication3\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE14B233-0492-4A22-ADB4-35A58F9B6279}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication3\\WebApplication3\\About.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication3\\WebApplication3\\About.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\About.aspx.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwFAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:38:23.602Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication3\\WebApplication3\\About.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\About.aspx",
+              "ToolTip": "C:\\Users\\Anjal\\Desktop\\New folder\\WebApplication3\\WebApplication3\\About.aspx",
+              "RelativeToolTip": "WebApplication3\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-06T07:32:51.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
